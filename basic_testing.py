@@ -40,3 +40,6 @@ print(s2.lower().islower())
 print(s2.isnumeric())
 print(s3.isnumeric())
 print(s2.replace("l","p",2))
+
+#boolean
+print(10 > 90)
